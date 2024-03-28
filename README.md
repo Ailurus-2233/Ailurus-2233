@@ -11,7 +11,7 @@
 ### 🔨 Develop skills
             
 ![GO-blue](https://img.shields.io/badge/GO-blue)
-![csharp-blue](https://img.shields.io/badge/csharp-blue)
+![.Net-blue](https://img.shields.io/badge/.Net-blue)
 ![python-blue](https://img.shields.io/badge/python-blue)
 ![java-blue](https://img.shields.io/badge/java-blue)
 ![C++-blue](https://img.shields.io/badge/C++-blue)
